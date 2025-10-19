@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+
+# Local environment variables
+.env
+
+# Local SQLite database
+instance/
+
+# Byte-compiled / log files
+*.pyc
+*.pyo
+*.log
